@@ -6,7 +6,7 @@ using web2.Models;
 
 namespace web2.ViewModel
 {
-    public class EmpDeptViewModel
+    public class EmpDeptViewModel 
     {
         Employee EmpObj = new Employee();
         Department DeptObj = new Department();
